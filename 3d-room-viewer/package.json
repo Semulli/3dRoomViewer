@@ -12,8 +12,6 @@
     "vite": "^8.0.12"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "^6.0.2",
-    "three": "^0.184.0",
-    "vite-plugin-vercel": "^11.1.0"
+    "three": "^0.184.0"
   }
 }
